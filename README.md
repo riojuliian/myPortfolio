@@ -4,9 +4,7 @@ This is my portfolio website
 
 ## URL
 
-<ul>
-  <li>[riojulian.github.io](https://riojulian.github.io/)💘💖
-</ul>
+- [riojuliian.github.io](https://riojuliian.github.io/)💘💖
 
 ## Technologies Used 
 
