@@ -10,7 +10,7 @@ const greeting = {
   username: "Rio Julian",
   title: "Hi There, I'm Rio",
   subTitle: emoji("A computer engineering graduate who's passionate about data, machine learning, mobile and web development 🚀."),
-  resumeLink: "https://drive.google.com/file/d/1nk00HHIno9575dI6if6RITbDyYclss8_/view?usp=sharing"
+  resumeLink: ""
 };
 
 // Your Social Media Link
@@ -36,7 +36,7 @@ const skillsSection = {
     emoji("⚡ Identifying and visualizing data, using data analysis tools to provide meaningful information and insights"),
     emoji("⚡ Develop highly interactive Front end for your web applications"),
     emoji("⚡ Develop Android Mobile Application with Public API"),
-    emoji("⚡ Implementing machine learing to develop predicting and forecasting algorithm on a large amount of data")
+    emoji("⚡ Implementing machine learning to develop predicting and forecasting algorithm on a large amount of data")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
